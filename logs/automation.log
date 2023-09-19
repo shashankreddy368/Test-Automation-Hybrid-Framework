@@ -1,0 +1,201 @@
+13:28:43.244 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+13:28:43.411 [main] INFO  testCases.LoginTest - userId entered
+13:28:43.557 [main] INFO  testCases.LoginTest - password entered
+13:28:44.850 [main] INFO  testCases.LoginTest - clicked on Login button
+13:28:44.850 [main] INFO  testCases.LoginTest - Validating Login
+14:44:23.061 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+14:44:23.190 [main] INFO  testCases.LoginTest - userId entered
+14:44:23.259 [main] INFO  testCases.LoginTest - password entered
+14:44:24.214 [main] INFO  testCases.LoginTest - clicked on Login button
+14:44:24.214 [main] INFO  testCases.LoginTest - Validating Login
+14:44:24.236 [main] INFO  testCases.LoginTest - LoginTest is completed
+14:55:19.605 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+14:55:19.659 [main] INFO  testCases.LoginTest - userId entered
+14:55:19.681 [main] INFO  testCases.LoginTest - password entered
+14:55:20.824 [main] INFO  testCases.LoginTest - clicked on Login button
+14:55:20.824 [main] INFO  testCases.LoginTest - Validating Login
+14:55:20.856 [main] INFO  testCases.LoginTest - LoginTest is completed
+15:09:20.784 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+15:09:20.882 [main] INFO  testCases.LoginTest - userId entered
+15:09:20.932 [main] INFO  testCases.LoginTest - password entered
+15:09:22.392 [main] INFO  testCases.LoginTest - clicked on Login button
+15:09:22.392 [main] INFO  testCases.LoginTest - Validating Login
+15:09:22.420 [main] INFO  testCases.LoginTest - LoginTest is completed
+15:11:25.855 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+15:11:25.949 [main] INFO  testCases.LoginTest - userId entered
+15:11:26.001 [main] INFO  testCases.LoginTest - password entered
+15:11:26.932 [main] INFO  testCases.LoginTest - clicked on Login button
+15:11:26.932 [main] INFO  testCases.LoginTest - Validating Login
+15:11:26.954 [main] INFO  testCases.LoginTest - LoginTest is completed
+15:11:32.209 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+15:11:32.302 [main] INFO  testCases.LoginTest - userId entered
+15:11:32.370 [main] INFO  testCases.LoginTest - password entered
+15:11:33.574 [main] INFO  testCases.LoginTest - clicked on Login button
+15:11:33.574 [main] INFO  testCases.LoginTest - Validating Login
+15:11:33.598 [main] INFO  testCases.LoginTest - LoginTest is completed
+15:11:41.127 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+15:11:41.162 [main] INFO  testCases.LoginTest - userId entered
+15:11:41.177 [main] INFO  testCases.LoginTest - password entered
+15:11:42.340 [main] INFO  testCases.LoginTest - clicked on Login button
+15:11:42.341 [main] INFO  testCases.LoginTest - Validating Login
+15:11:42.371 [main] INFO  testCases.LoginTest - LoginTest is completed
+15:13:34.537 [TestNG-tests-1] INFO  testCases.LoginTest - **** starting Logintest ****
+15:13:34.704 [TestNG-tests-1] INFO  testCases.LoginTest - userId entered
+15:13:34.801 [TestNG-tests-1] INFO  testCases.LoginTest - password entered
+15:13:35.038 [TestNG-tests-2] INFO  testCases.LoginTest - **** starting Logintest ****
+15:13:35.170 [TestNG-tests-2] INFO  testCases.LoginTest - userId entered
+15:13:35.259 [TestNG-tests-2] INFO  testCases.LoginTest - password entered
+15:13:36.517 [TestNG-tests-3] INFO  testCases.LoginTest - **** starting Logintest ****
+15:13:36.588 [TestNG-tests-3] INFO  testCases.LoginTest - userId entered
+15:13:36.608 [TestNG-tests-1] INFO  testCases.LoginTest - clicked on Login button
+15:13:36.608 [TestNG-tests-1] INFO  testCases.LoginTest - Validating Login
+15:13:36.622 [TestNG-tests-3] INFO  testCases.LoginTest - password entered
+15:13:36.665 [TestNG-tests-1] INFO  testCases.LoginTest - LoginTest is completed
+15:13:37.052 [TestNG-tests-2] INFO  testCases.LoginTest - clicked on Login button
+15:13:37.053 [TestNG-tests-2] INFO  testCases.LoginTest - Validating Login
+15:13:37.085 [TestNG-tests-2] INFO  testCases.LoginTest - LoginTest is completed
+15:13:37.835 [TestNG-tests-3] INFO  testCases.LoginTest - clicked on Login button
+15:13:37.835 [TestNG-tests-3] INFO  testCases.LoginTest - Validating Login
+15:13:37.859 [TestNG-tests-3] INFO  testCases.LoginTest - LoginTest is completed
+15:43:13.899 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+15:43:14.099 [main] INFO  testCases.LoginTest - userId entered
+15:43:14.219 [main] INFO  testCases.LoginTest - password entered
+15:43:15.356 [main] INFO  testCases.LoginTest - clicked on Login button
+15:43:15.357 [main] INFO  testCases.LoginTest - Validating Login
+15:43:15.402 [main] INFO  testCases.LoginTest - LoginTest is completed
+12:32:28.996 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:32:29.111 [main] INFO  testCases.LoginTest - userId entered
+12:32:29.193 [main] INFO  testCases.LoginTest - password entered
+12:32:30.177 [main] INFO  testCases.LoginTest - clicked on Login button
+12:32:30.177 [main] INFO  testCases.LoginTest - Validating Login
+12:32:30.200 [main] INFO  testCases.LoginTest - LoginTest is completed
+12:35:00.122 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:35:00.222 [main] INFO  testCases.LoginTest - userId entered
+12:35:00.317 [main] INFO  testCases.LoginTest - password entered
+12:45:28.223 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:45:28.319 [main] INFO  testCases.LoginTest - userId entered
+12:45:28.394 [main] INFO  testCases.LoginTest - password entered
+12:45:28.759 [main] INFO  testCases.LoginTest - clicked on Login button
+12:45:28.760 [main] INFO  testCases.LoginTest - Validating Login
+12:48:21.206 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:48:21.293 [main] INFO  testCases.LoginTest - userId entered
+12:48:21.340 [main] INFO  testCases.LoginTest - password entered
+12:48:21.690 [main] INFO  testCases.LoginTest - clicked on Login button
+12:48:21.690 [main] INFO  testCases.LoginTest - Validating Login
+12:50:36.263 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:50:36.356 [main] INFO  testCases.LoginTest - userId entered
+12:50:36.420 [main] INFO  testCases.LoginTest - password entered
+12:50:36.809 [main] INFO  testCases.LoginTest - clicked on Login button
+12:50:36.809 [main] INFO  testCases.LoginTest - Validating Login
+12:52:27.458 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:52:27.547 [main] INFO  testCases.LoginTest - userId entered
+12:52:27.610 [main] INFO  testCases.LoginTest - password entered
+12:52:27.964 [main] INFO  testCases.LoginTest - clicked on Login button
+12:52:27.964 [main] INFO  testCases.LoginTest - Validating Login
+12:59:30.033 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+12:59:30.135 [main] INFO  testCases.LoginTest - userId entered
+12:59:30.233 [main] INFO  testCases.LoginTest - password entered
+12:59:30.606 [main] INFO  testCases.LoginTest - clicked on Login button
+12:59:30.606 [main] INFO  testCases.LoginTest - Validating Login
+13:04:45.014 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+13:04:45.124 [main] INFO  testCases.LoginTest - userId entered
+13:04:45.125 [main] INFO  testCases.LoginTest - password entered
+13:04:45.896 [main] INFO  testCases.LoginTest - clicked on Login button
+13:04:45.896 [main] INFO  testCases.LoginTest - Validating Login
+22:11:46.181 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+22:11:46.342 [main] INFO  testCases.LoginTest - userId entered
+22:11:46.342 [main] INFO  testCases.LoginTest - password entered
+22:11:46.858 [main] INFO  testCases.LoginTest - clicked on Login button
+22:11:46.862 [main] INFO  testCases.LoginTest - Validating Login
+22:24:35.130 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+22:24:35.266 [main] INFO  testCases.LoginTest - userId entered
+22:24:35.266 [main] INFO  testCases.LoginTest - password entered
+22:24:35.747 [main] INFO  testCases.LoginTest - clicked on Login button
+22:24:35.747 [main] INFO  testCases.LoginTest - Validating Login
+22:26:04.062 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+22:26:04.169 [main] INFO  testCases.LoginTest - userId entered
+22:26:04.201 [main] INFO  testCases.LoginTest - password entered
+22:26:05.378 [main] INFO  testCases.LoginTest - clicked on Login button
+22:26:05.382 [main] INFO  testCases.LoginTest - Validating Login
+22:26:05.427 [main] INFO  testCases.LoginTest - LoginTest is completed
+22:50:16.344 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+22:50:16.479 [main] INFO  testCases.LoginTest - userId entered
+22:50:16.515 [main] INFO  testCases.LoginTest - password entered
+22:50:17.782 [main] INFO  testCases.LoginTest - clicked on Login button
+22:50:17.784 [main] INFO  testCases.LoginTest - Validating Login
+22:50:17.827 [main] INFO  testCases.LoginTest - LoginTest is completed
+22:51:15.324 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+22:56:12.637 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+22:56:12.748 [main] INFO  testCases.LoginTest - userId entered
+22:56:12.784 [main] INFO  testCases.LoginTest - password entered
+22:56:14.025 [main] INFO  testCases.LoginTest - clicked on Login button
+22:56:14.027 [main] INFO  testCases.LoginTest - Validating Login
+22:56:14.087 [main] INFO  testCases.LoginTest - LoginTest is completed
+23:01:22.049 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:05:28.750 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:10:26.876 [main] INFO  testCases.LoginDataDrivenTest - clicking on Logout
+23:10:28.568 [main] INFO  testCases.LoginDataDrivenTest - loggedOut
+23:10:28.572 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:10:32.952 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:10:37.849 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:10:42.917 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:10:58.040 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+23:17:34.591 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:37:29.572 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:37:34.143 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:37:38.992 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:37:43.774 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:37:59.073 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest completed
+10:50:12.777 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+10:50:17.156 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+10:50:22.157 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+10:50:26.987 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+10:50:42.051 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+10:55:53.083 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:00:04.011 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:00:08.374 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:00:13.441 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:00:18.257 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:00:33.365 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:26:31.352 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+11:26:31.475 [main] INFO  testCases.LoginTest - userId entered
+11:26:31.510 [main] INFO  testCases.LoginTest - password entered
+11:26:33.502 [main] INFO  testCases.LoginTest - clicked on Login button
+11:26:33.504 [main] INFO  testCases.LoginTest - Validating Login
+11:26:34.826 [main] INFO  testCases.LoginTest - LoginTest is completed
+11:26:46.248 [main] INFO  testCases.LoginTest2 - **** starting Logintest ****
+11:26:46.317 [main] INFO  testCases.LoginTest2 - userId entered
+11:26:46.318 [main] INFO  testCases.LoginTest2 - password entered
+11:26:47.229 [main] INFO  testCases.LoginTest2 - clicked on Login button
+11:26:47.230 [main] INFO  testCases.LoginTest2 - Validating Login
+17:26:56.502 [main] INFO  testCases.LoginTest - **** starting Logintest ****
+17:26:56.568 [main] INFO  testCases.LoginTest - userId entered
+17:26:56.591 [main] INFO  testCases.LoginTest - password entered
+17:26:57.731 [main] INFO  testCases.LoginTest - clicked on Login button
+17:26:57.731 [main] INFO  testCases.LoginTest - Validating Login
+17:26:58.498 [main] INFO  testCases.LoginTest - LoginTest is completed
+17:27:05.252 [main] INFO  testCases.LoginTest2 - **** starting Logintest ****
+17:27:05.285 [main] INFO  testCases.LoginTest2 - userId entered
+17:27:05.285 [main] INFO  testCases.LoginTest2 - password entered
+17:27:05.712 [main] INFO  testCases.LoginTest2 - clicked on Login button
+17:27:05.712 [main] INFO  testCases.LoginTest2 - Validating Login
+11:48:50.775 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:48:55.539 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:49:00.613 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:49:05.337 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+11:49:20.648 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+13:44:01.087 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+13:44:05.831 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+13:44:10.598 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+13:44:15.264 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+13:44:30.315 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:12:26.245 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:12:31.158 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:12:36.138 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:12:40.792 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:12:55.793 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:20:28.516 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:20:33.481 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:20:38.046 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:20:42.580 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
+14:20:57.523 [main] INFO  testCases.LoginDataDrivenTest - LoginDatadrivenTest is completed
